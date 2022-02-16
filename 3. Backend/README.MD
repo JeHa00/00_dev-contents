@@ -1,6 +1,6 @@
 # 3. Backend
 
-## server, cloud, architecture
+## Server, Cloud, Architecture
 
 ### Will do
 
