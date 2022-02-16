@@ -16,25 +16,20 @@
 
 ### 1. 개발 일반
 
-- [개발 문화/철학/방법론](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
-- [개발자 성장](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
-- [비전공자 & 신입](https://github.com/JeHa00/00_dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
-- [취업 & 이직 & 면접 & 코딩테스트](https://github.com/Integerous/goQuality-dev-contents/tree/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [비전공자 & 신입](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
+- [취업 & 이직 & 면접 & 코딩테스트](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [개발 문화/철학/방법론](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [개발자 성장](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
+
 
 ### 2. 언어 & 프레임워크
 
-- [Java](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#java)
-  - [JVM](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jvm)
-- [Spring framework](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#spring-framework)
-  - [JPA & Hibernate](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#jpa--hibernate)
-- [Javascript](https://github.com/Integerous/goQuality-dev-contents/tree/master/4.%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C#javascript-%EA%B4%80%EB%A0%A8)
-- [Python](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#python)
-- [Go](https://github.com/Integerous/goQuality-dev-contents/tree/master/2.%20%EC%96%B8%EC%96%B4%20%26%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC#go)
-
+- [Python](https://github.com/JeHa00/00_dev-contents/tree/master/2.%20Language%20%26%20Framework#python)
+- [Django](https://github.com/JeHa00/00_dev-contents/tree/master/2.%20Language%20%26%20Framework#django)
+--------------------------------------------------------------------------------------------------
 ### 3. 백엔드
 
 - [서버 & 클라우드 & 아키텍쳐](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%84%9C%EB%B2%84--%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C--%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
-  - [마이크로서비스 MSA](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-msa)
   - [도커 Docker](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8F%84%EC%BB%A4-docker)
   - [쿠버네티스 Kubernetes](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-kubernetes)
 - [데이터베이스 & SQL](https://github.com/Integerous/goQuality-dev-contents/tree/master/3.%20%EB%B0%B1%EC%97%94%EB%93%9C#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4--sql)
