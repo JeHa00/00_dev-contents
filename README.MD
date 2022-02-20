@@ -18,7 +18,7 @@
 
 - [비전공자 & 신입](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90--%EC%8B%A0%EC%9E%85)
 - [취업 & 이직 & 면접 & 코딩테스트](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EC%B7%A8%EC%97%85--%EC%9D%B4%EC%A7%81--%EB%A9%B4%EC%A0%91--%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
-- [개발 문화/철학/방법론](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
+- [개발 문화/철학/방법론/공부법](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94%EC%B2%A0%ED%95%99%EB%B0%A9%EB%B2%95%EB%A1%A0)
 - [개발자 성장](https://github.com/JeHa00/00_dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/README.MD#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%B1%EC%9E%A5)
 
 
