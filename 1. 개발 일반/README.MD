@@ -16,7 +16,15 @@
 
 ### Done
 
-## 개발 문화/철학/방법론/공부법
+## 개발 문화/철학/방법론
+
+### Will do
+
+### Doing
+
+### Done
+
+## 개발자 성장
 
 ### Will do
  - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
@@ -33,11 +41,3 @@
 - [프로그래밍 학습 방법](https://www.youtube.com/watch?v=Xcy2Pq6LABk)
 - [학습에 실패한 이야기](https://techblog.woowahan.com/2555/)
 - [개발자가 실력을 향상시킬 방법은 OO뿐이에요. 반복](https://www.youtube.com/watch?v=U0YWdnSKDfw)
-
-## 개발자 성장
-
-### Will do
-
-### Doing
-
-### Done
