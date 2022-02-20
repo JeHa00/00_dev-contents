@@ -38,6 +38,6 @@
 ### Doing
 
 ### Done
-- [프로그래밍 학습 방법](https://www.youtube.com/watch?v=Xcy2Pq6LABk)
-- [학습에 실패한 이야기](https://techblog.woowahan.com/2555/)
-- [개발자가 실력을 향상시킬 방법은 OO뿐이에요. 반복](https://www.youtube.com/watch?v=U0YWdnSKDfw)
+- [프로그래밍 학습 방법](https://github.com/JeHa00/dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%84%B1%EC%9E%A5%20Summaries.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%99%EC%8A%B5-%EB%B0%A9%EB%B2%95)
+- [학습에 실패한 이야기](https://github.com/JeHa00/dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%84%B1%EC%9E%A5%20Summaries.md#%ED%95%99%EC%8A%B5%EC%97%90-%EC%8B%A4%ED%8C%A8%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+- [개발자가 실력을 향상시킬 방법은 OO뿐이에요. 반복](https://github.com/JeHa00/dev-contents/blob/master/1.%20%EA%B0%9C%EB%B0%9C%20%EC%9D%BC%EB%B0%98/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%84%B1%EC%9E%A5%20Summaries.md#%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%8B%A4%EB%A0%A5%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%AC-%EB%B0%A9%EB%B2%95%EC%9D%80-oo-%EB%BF%90%EC%9D%B4%EC%97%90%EC%9A%94-%EB%B0%98%EB%B3%B5)
