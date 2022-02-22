@@ -24,25 +24,35 @@
 
 ### 2. 언어 & 프레임워크
 
+- [Java](https://github.com/JeHa00/dev-contents/blob/master/2.%20Language%20&%20Framework/README.MD#java)
 - [Python](https://github.com/JeHa00/00_dev-contents/tree/master/2.%20Language%20%26%20Framework#python)
 - [Django](https://github.com/JeHa00/00_dev-contents/tree/master/2.%20Language%20%26%20Framework#django)
 --------------------------------------------------------------------------------------------------
-### 3. 백엔드
+
+### 3.Computer Science
+- [운영체제(Operation System)](https://github.com/JeHa00/dev-contents/blob/master/5.%20Computer%20Science/README.MD)
+
+
+
+-------------
+
+### 4. 백엔드
 
 - [서버 & 클라우드 & 아키텍쳐]
   - [도커 Docker]
   - [쿠버네티스 Kubernetes]
 - [데이터베이스 & SQL]
-- [운영체제 (리눅스, MacOS, 윈도우)]
+- [운영체제 (리눅스, MacOS, 윈도우)
 - [네트워크]
 
 ---
 
-### 4. 프론트엔드
+### 5. 프론트엔드
 
 ---
 ### 5. 기타
 
+- [내 마음대로 선정한 개발자/프로그래머 추천도서(필독서) 50선](https://www.sangkon.com/good_books_for_dev_2018/)
 - [Git]
 - [웹 관련]
 - [REST & GraphQL]
