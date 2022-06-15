@@ -100,7 +100,6 @@
 # **DB**
 
 - Will
-  -  
 - Doing
   - 💻 [갖고노는 MySQL 데이터베이스 by 얄코](https://www.inflearn.com/course/%EC%96%84%EC%BD%94-%EB%A7%88%EC%9D%B4%EC%97%90%EC%8A%A4%ED%81%90%EC%97%98/dashboard)
   - 💻 [관계형 데이터 모델링 - 생활코딩](https://opentutorials.org/course/3883)
@@ -110,10 +109,17 @@
 
 # **Linux**
 
+
 - Will
+
+
   - 💻 [Linux Sysadmin Basics](https://www.youtube.com/watch?v=Lbh8Bh_SEzU)
   - 💻 [리눅스 커맨드라인 툴](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%88%B4)
+
+
 - Doing
+
+
 - Done
 
 <br>
