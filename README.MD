@@ -100,11 +100,10 @@
 # **DB**
 
 - Will
+   - 💻 [관계형 데이터 모델링 - 생활코딩](https://opentutorials.org/course/3883)
 - Doing
-  - 💻 [갖고노는 MySQL 데이터베이스 by 얄코](https://www.inflearn.com/course/%EC%96%84%EC%BD%94-%EB%A7%88%EC%9D%B4%EC%97%90%EC%8A%A4%ED%81%90%EC%97%98/dashboard)
-  - 💻 [관계형 데이터 모델링 - 생활코딩](https://opentutorials.org/course/3883)
 - Done  
-
+  - 💻 [갖고노는 MySQL 데이터베이스 by 얄코](https://www.inflearn.com/course/%EC%96%84%EC%BD%94-%EB%A7%88%EC%9D%B4%EC%97%90%EC%8A%A4%ED%81%90%EC%97%98/dashboard)
 ---
 
 # **Linux**
@@ -137,7 +136,6 @@
 
 - Done
   - 💻 [level 3 모두를 위한 파이썬 : 필수 문법 배우기 Feat. 오픈소스 패키지 배포 (Inflearn Original)](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A4%91%EA%B3%A0%EA%B8%89/dashboard)
-
   - 💻 [level 2 우리를 위한 프로그래밍 : 파이썬 중급 (Inflearn Original)](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A4%91%EA%B8%89-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/dashboard)
   - 💻 [level 1 프로그래밍 시작하기 : 파이썬 입문 (Inflearn Original)](https://www.inflearn.com/course/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/dashboard)
   - 📚 [Do it! 첫 코딩 with 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163032151&orderClick=LEa&Kc=)
@@ -160,16 +158,21 @@
 
 ---
 
-# **생산성 도구**
+# **Git**
 
 - Will
   - 📚 [Pro Git 2 edition](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261789&orderClick=LAG&Kc=)
-
 - Doing
-
-
+  - 💻 [제대로 파는 Git & GitHub - by 얄코](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83/dashboard)
 - Done
 
+---
+
+# **생산성 도구**
+
+- Will
+- Doing
+- Done
   - 📚 [업무와 일상을 정리하는 새로운 방법 Notion](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665476&orderClick=LEa&Kc=)
 
 ---
@@ -194,6 +197,15 @@
 - Done
 
 <br>
+
+---
+
+# **IT 추천 서적**
+ 
+ - Will
+ - Doing
+  - 📚 [객체지향의 사실과 오해: 역할, 책임, 협력 관점에서 본 객체지향](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788998139766)
+ - Done
 
 
 ---
